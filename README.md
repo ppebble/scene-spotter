@@ -1,9 +1,9 @@
-🎬 Scene Spotter
+## 🎬 Scene Spotter
 Find Your Favorite Anime Scenes in Real Life
 
 애니메이션과 드라마의 실제 배경지를 발견하고 공유하는 성지순례 플랫폼입니다.
 
-✨ Features
+##✨ Features
 🗺️ 지도 기반 탐색: 작품별 실제 촬영 장소 지도 표시
 
 🔍 스마트 검색: 작품명으로 관련 장소 빠르게 찾기
@@ -20,7 +20,7 @@ Community: 리뷰 & 사진 공유
 
 💫 실용 정보: 교통, 영업시간, 방문 팁
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Framework: Next.js 14 (App Router)
 
 Language: TypeScript
@@ -35,7 +35,7 @@ Data: TanStack Query
 
 Linting: ESLint + Prettier
 
-🚀 Quick Start
+##🚀 Quick Start
 bash
 # Install dependencies
 pnpm install
